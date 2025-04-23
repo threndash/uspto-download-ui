@@ -1,0 +1,1030 @@
+[
+  {
+    "table_name": "assignment 2014 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1PWQVINYv42R4VDzvaJiYsY7q9jHzmmnm/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignor 2014 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignor_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1XxQbNnIu4LIQ8tsdoWTtCeIUXftacC7D/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignee 2014 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignee_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1MosawEyYPFq4jFDMwr8B_2769MN7k9Un/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid 2014 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1n5TPsez7Jf3soLXmirDmjZNymRxCMVii/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment_conveyance 2014 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_conveyance_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/11tQe2D1vv8RZ6WgDlNNrylMfUWrpxc3O/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid_admin 2014 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_admin_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1DmGtSoGvZ5SapS_ZmudabY--EbR7gvv9/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment 2022 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1hdohf1ni6T0WwgsbVulf1Ts_e38J1rZd/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignor 2022 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignor_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1ft5li43VArkvZLOZxTaVs4tSvHjOsN2R/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignee 2022 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignee_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1BYSSCuRNrIGACl0KysMVJ8ULMAYtLtRG/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid 2022 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1CUfLyPEsxe_JJXr4MuN7eTI2EePH8u8h/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment_conveyance 2022 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_conveyance_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1xqT37haiILKdk08dGnIQJwNvsEwwN14m/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid_admin 2022 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_admin_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1k_rDywZmexe5Rul0Nj-bGrZVzob7QrZj/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment 2023 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_2023.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1E_F-435zP_e0D-J89z5RZaYkgBgCNj8Z/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignor 2023 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignor_2023.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1b_q8f_lAn1DEepk82I7GzQBeLcjD_FJt/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignee 2023 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignee_2023.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1y7uQGjyyyL5JK-6eFoXvLf9X_nwDUdNi/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid 2023 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_2023.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1H0yWXzkxDRH3ERsphIzSJC2SJkihSq5d/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment_conveyance 2023 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_conveyance_2023.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1-w2ixFAG9Dj9dPPUNPxAvYCniLBpr29e/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid_admin 2023 DTA",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_admin_2023.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1TLCZUd66dGEWlVsCEh8Wx0cLAmbBspzg/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment 2014 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Hjez-dQuYY_SL69h5AwW_L-oClo4Juvv/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignor 2014 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignor_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1ldF-mXwDhKOqdyMl_Azi4u21JVH4Z4kI/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignee 2014 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignee_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/18o4Z2LoPR76H1T5tpnuFVmgRYft_WXhY/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid 2014 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1DlmV7dOm-FIjoGMfIREWmLzNDkrNVv0o/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment_conveyance 2014 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_conveyance_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1jZ91Hxd7Rxa0Djg_pGpNdrdOfRgk5lQA/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid_admin 2014 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_admin_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1fjcN-JIbtpD64cpcQ0RrjGOyJO1U_1yK/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment 2022 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1jbo_L7MmleDGemYgyhn4bBRxs8Bz2eDh/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignor 2022 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignor_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1_9iba9N0TTozsQFT-R5GZu07vQkf_swK/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignee 2022 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignee_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1_h_kZ25GpBXymsQF4ruXuE8_Jy3_c3w3/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid 2022 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1d4NZMRODLVAMrQ87c5Xbwob_UA7STUYr/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment_conveyance 2022 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_conveyance_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1l8c1wFTuXDY0ZGSNDUS_R1AQJ18Jesx-/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid_admin 2022 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_admin_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/16q7sjDw0gjrmvqBii7dngsELpg3Fj_ky/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment 2023 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_2023.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1sJNyjFE3RhxBAw39YOG20xvqSBYEoGyZ/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignor 2023 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignor_2023.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1LSjHAovuaGO8VitUV4S82NygB5W8vqH9/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignee 2023 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignee_2023.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1LNlZ2aAgf4hCsdmMoGmAFBu-CrDlOEwq/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid 2023 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_2023.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1fUDmurPQaiF7NC1IkzRPNASIXzMdpCq2/view?usp=drivesdk"
+  },
+  {
+    "table_name": "assignment_conveyance 2023 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/assignment_conveyance_2023.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1mdpfp072r8DjAfI8kUh85Fbl-sq193RG/view?usp=drivesdk"
+  },
+  {
+    "table_name": "documentid_admin 2023 CSV",
+    "description": "",
+    "path": "patent-assignment-dataset/documentid_admin_2023.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1UZXvPAdfkjiCSyjw5VmNW-_cp_a4IBQZ/view?usp=drivesdk"
+  },
+  {
+    "table_name": "patent_claims_fulltext 2014 DTA",
+    "description": "",
+    "path": "patent-claims-research-dataset/patent_claims_fulltext_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1FTOtnmiT2miODozFDjrAMyuSYPWBXZHY/view?usp=drivesdk"
+  },
+  {
+    "table_name": "patent_claims_stats 2014 DTA",
+    "description": "",
+    "path": "patent-claims-research-dataset/patent_claims_stats_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/10dtBcbsDtrxRZQbmFthwSbnElf1U2PIV/view?usp=drivesdk"
+  },
+  {
+    "table_name": "patent_document_stats 2014 DTA",
+    "description": "",
+    "path": "patent-claims-research-dataset/patent_document_stats_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1uKOQKm-eZla5dKQxPMTncX8mTYG-dx3Q/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pgpub_claims_fulltext 2014 DTA",
+    "description": "",
+    "path": "patent-claims-research-dataset/pgpub_claims_fulltext_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1MZnKEMiW0AGpCj6w3NeF7ewqXkhl7lA3/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pgpub_claims_stats 2014 DTA",
+    "description": "",
+    "path": "patent-claims-research-dataset/pgpub_claims_stats_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1DUgCXMmnlHEBtMzi-ox_onjbTmFtLEh6/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pgpub_document_stats 2014 DTA",
+    "description": "",
+    "path": "patent-claims-research-dataset/pgpub_document_stats_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/175CcfcgfTVUb-O3qNlWgWubnVpw8rnNZ/view?usp=drivesdk"
+  },
+  {
+    "table_name": "patent_claims_fulltext 2014 CSV",
+    "description": "",
+    "path": "patent-claims-research-dataset/patent_claims_fulltext_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1JG4v4IEPj5DjK-SvPpP73j-4UCvOFcZ4/view?usp=drivesdk"
+  },
+  {
+    "table_name": "patent_claims_stats 2014 CSV",
+    "description": "",
+    "path": "patent-claims-research-dataset/patent_claims_stats_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Z14T49IPOIbY49wlTDLNbI5KQi6Apn3D/view?usp=drivesdk"
+  },
+  {
+    "table_name": "patent_document_stats 2014 CSV",
+    "description": "",
+    "path": "patent-claims-research-dataset/patent_document_stats_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/15wpD5OIcfOnGmpGSuPiDfm7KxaL9KKk9/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pgpub_claims_fulltext 2014 CSV",
+    "description": "",
+    "path": "patent-claims-research-dataset/pgpub_claims_fulltext_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1C9uwh76dpzitvqjtAPTexyMLMaIaiBTW/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pgpub_claims_stats 2014 CSV",
+    "description": "",
+    "path": "patent-claims-research-dataset/pgpub_claims_stats_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/136c2KJbXepgO-ELPP2LdvstGwoGHuHtW/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pgpub_document_stats 2014 CSV",
+    "description": "",
+    "path": "patent-claims-research-dataset/pgpub_document_stats_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1apKjHQGGxt_yhTMKVF8yix6YmIu_krUG/view?usp=drivesdk"
+  },
+  {
+    "table_name": "application_data 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/application_data_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1_26LtSgBxdnIbROLkRCeE39JAo1jH5w_/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_inventors 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_inventors_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/17RlVlXciXakAXEp_py1n_n_DNytVQDJq/view?usp=drivesdk"
+  },
+  {
+    "table_name": "transactions 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/transactions_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1ugNdgy9BIO2KPaUJCyygoaqIYvHcmzrC/view?usp=drivesdk"
+  },
+  {
+    "table_name": "event_codes 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/event_codes_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1ZLzHIW2MAXRyOJh7ZmMnpNzzN8Qb9EnW/view?usp=drivesdk"
+  },
+  {
+    "table_name": "status_codes 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/status_codes_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1zjRw0cANU6ZOwD5XVhCcGKr6F5-_eQwC/view?usp=drivesdk"
+  },
+  {
+    "table_name": "continuity_parents 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_parents_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Sw6CSouBeMOl7xmsM1tZdT4_W0giqAqC/view?usp=drivesdk"
+  },
+  {
+    "table_name": "continuity_children 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_children_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1ROqvGRf_Q69ocxABEzJpCLWsF1s6Bs2X/view?usp=drivesdk"
+  },
+  {
+    "table_name": "foreign_priority 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/foreign_priority_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1hPICHvyLh-nita8lp1x9lW1QrNaGYcOy/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pat_term_adj 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pat_term_adj_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/10K2LLev2mtNRIaqkFUmoU_bi3HUR8uNn/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pta_summary 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pta_summary_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/14GRSZAAk7bGu_xfHqrZlJqATqMPN6FFY/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pte_summary 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pte_summary_2014.dta.zip"
+  },
+  {
+    "table_name": "correspondence_address 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/correspondence_address_2014.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1LmZNTU_9d9A7W40Uk6s3olp7T3sKDsBl/view?usp=drivesdk"
+  },
+  {
+    "table_name": "attorney_agent 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/attorney_agent_2014.dta.zip"
+  },
+  {
+    "table_name": "all_applicants 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_applicants_2014.dta.zip"
+  },
+  {
+    "table_name": "cms_document_codes 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_document_codes_2014.dta.zip"
+  },
+  {
+    "table_name": "cms_documents 2014 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_documents_2014.dta.zip"
+  },
+  {
+    "table_name": "application_data 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/application_data_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1BBNyLwUjubiVTMZ8inYVhN38Ql4fl0rJ/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_inventors 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_inventors_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1jlloli2_2th5thzPPktnWmajw2tc35Tx/view?usp=drivesdk"
+  },
+  {
+    "table_name": "transactions 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/transactions_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Pq3OhhWX4kD2r0PWPcAesYbK4lmmrPbR/view?usp=drivesdk"
+  },
+  {
+    "table_name": "event_codes 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/event_codes_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1OkfJTQNFEMwz16UjtewRyIJ_8xg8Migb/view?usp=drivesdk"
+  },
+  {
+    "table_name": "status_codes 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/status_codes_2020.dta.zip"
+  },
+  {
+    "table_name": "continuity_parents 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_parents_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1F0slZLd4rYkITmrPB-SaLmmeAwera9-o/view?usp=drivesdk"
+  },
+  {
+    "table_name": "continuity_children 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_children_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Sv7TwZXfVR63-xb806-bfmv01ooaXVl1/view?usp=drivesdk"
+  },
+  {
+    "table_name": "foreign_priority 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/foreign_priority_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1M2sMvWHBDdZxm1Srhja4bmzual828s53/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pat_term_adj 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pat_term_adj_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1gWK69O-ZU6qDr_rkUlrW8TGwLp5Zt42D/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pta_summary 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pta_summary_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/12CYBO6gmt3si7hT7AY7AEeAXy-ipUVMk/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pte_summary 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pte_summary_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/14ZDlJ0tNvTrQ9opvYK9Rb2mmbzw9XGtR/view?usp=drivesdk"
+  },
+  {
+    "table_name": "correspondence_address 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/correspondence_address_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/18ISJKBIWhrv1_NJpUOjcv9_Vnc8q9MSZ/view?usp=drivesdk"
+  },
+  {
+    "table_name": "attorney_agent 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/attorney_agent_2020.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1uhwUcWjenfEuZzTM8oHUQE5nJSbK_HtR/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_applicants 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_applicants_2020.dta.zip"
+  },
+  {
+    "table_name": "cms_document_codes 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_document_codes_2020.dta.zip"
+  },
+  {
+    "table_name": "cms_documents 2020 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_documents_2020.dta.zip"
+  },
+  {
+    "table_name": "application_data 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/application_data_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1NoJwRdiPKVADXdJ91NPf24VNs-jpgRc9/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_inventors 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_inventors_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1-h9HCqvR4yxmIOJO38_GCAdq0oXzZ_F7/view?usp=drivesdk"
+  },
+  {
+    "table_name": "transactions 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/transactions_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1gfjfSZNmS4qtpfnlhUjsv17YiUeFd4q9/view?usp=drivesdk"
+  },
+  {
+    "table_name": "event_codes 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/event_codes_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Hzcj6_5oX3ROF4ztat1ROkLaKhgJU6ll/view?usp=drivesdk"
+  },
+  {
+    "table_name": "status_codes 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/status_codes_2021.dta.zip"
+  },
+  {
+    "table_name": "continuity_parents 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_parents_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1hJeeJYKXd_G7UW9ANKW-_0qOnBAEF6FO/view?usp=drivesdk"
+  },
+  {
+    "table_name": "continuity_children 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_children_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/17U9gOMDuRoi1bQNLAEC5i4Gq2mdSMr1e/view?usp=drivesdk"
+  },
+  {
+    "table_name": "foreign_priority 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/foreign_priority_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1CUOrZK-AjKssdQLAP7N3_dz3t4rDk975/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pat_term_adj 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pat_term_adj_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1pumVtxp5MvZ1iIUD51-5QZRmTtIngHMZ/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pta_summary 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pta_summary_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1aNQCmFCsSaJ2geKiF-Zfa0A6B-iA06Kg/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pte_summary 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pte_summary_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1QBdWjjHBF79aNq3O9BKHVjUAWBC8BiIi/view?usp=drivesdk"
+  },
+  {
+    "table_name": "correspondence_address 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/correspondence_address_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1li27Nv0JCf8XgjciD3-6rZG82ZZxFiSv/view?usp=drivesdk"
+  },
+  {
+    "table_name": "attorney_agent 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/attorney_agent_2021.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/186cux7Dl89XWpxc4tbpPhg8kG7CelZy7/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_applicants 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_applicants_2021.dta.zip"
+  },
+  {
+    "table_name": "cms_document_codes 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_document_codes_2021.dta.zip"
+  },
+  {
+    "table_name": "cms_documents 2021 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_documents_2021.dta.zip"
+  },
+  {
+    "table_name": "application_data 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/application_data_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1q8rwspaf3kI-l3pKYTvLe_cwEzU-wq5E/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_inventors 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_inventors_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1UZaNYTtcmuCanFYUDFN_Opvn-UocJbsq/view?usp=drivesdk"
+  },
+  {
+    "table_name": "transactions 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/transactions_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1y8cRC6M7aCxXlEw03oIJlSgLNCMBIRCq/view?usp=drivesdk"
+  },
+  {
+    "table_name": "event_codes 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/event_codes_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1JOy4WKS0yVlUCTYuMGQc5couCcF_NolT/view?usp=drivesdk"
+  },
+  {
+    "table_name": "status_codes 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/status_codes_2022.dta.zip"
+  },
+  {
+    "table_name": "continuity_parents 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_parents_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1te1bXAgJkw2sA8JvLSHVd1Yoaxjj2laL/view?usp=drivesdk"
+  },
+  {
+    "table_name": "continuity_children 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_children_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1q__WKbt1aFrYpI6w_Phi7yj2zAwd18sN/view?usp=drivesdk"
+  },
+  {
+    "table_name": "foreign_priority 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/foreign_priority_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1bSCWcwXqtIManhwpnyA1eysDOeNcRoHD/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pat_term_adj 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pat_term_adj_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1nVbaZK-ke_f4DXTGTV9rvmNodMh4AMPu/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pta_summary 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pta_summary_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1gQTNrc7xiPC8XzN5VuhdimgTNUO34QDE/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pte_summary 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pte_summary_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1tscYHDJSYePqn97UvmrmxKVIGsMwBsLk/view?usp=drivesdk"
+  },
+  {
+    "table_name": "correspondence_address 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/correspondence_address_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1twlVFfZM1csFILk4W1UW1Q9UfBtq3d4y/view?usp=drivesdk"
+  },
+  {
+    "table_name": "attorney_agent 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/attorney_agent_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1tI9_NnyDp8NsflqrGt00zB69xsNGR7rk/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_applicants 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_applicants_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1HBVKWrWCbFUo0aht6KW9CCprIIWJpVh1/view?usp=drivesdk"
+  },
+  {
+    "table_name": "cms_document_codes 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_document_codes_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1-xKgC7uPkQbJ5fYY2kA1inH4VT7yTGh4/view?usp=drivesdk"
+  },
+  {
+    "table_name": "cms_documents 2022 DTA",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_documents_2022.dta.zip",
+    "shareable_link": "https://drive.google.com/file/d/1pnTw0rrLVEzkoo07Pihh1aNRc7wyAhQ2/view?usp=drivesdk"
+  },
+  {
+    "table_name": "application_data 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/application_data_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/12zxCgy9HGh3ZY_7jzizdWRiq3dSoBA5G/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_inventors 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_inventors_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1IWHIANKTARgdp98ueVvXzFTnoZc0Yc0C/view?usp=drivesdk"
+  },
+  {
+    "table_name": "transactions 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/transactions_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1hPXprwyKPhCO-JkQi1RI7STwzpiSi2eF/view?usp=drivesdk"
+  },
+  {
+    "table_name": "event_codes 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/event_codes_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1cc3clxo9FGWvAQTxi6TaFHhzXV9NV5qF/view?usp=drivesdk"
+  },
+  {
+    "table_name": "status_codes 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/status_codes_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1M-zocq-9XzWvT0LbZwAKPrxgb_8kBLOc/view?usp=drivesdk"
+  },
+  {
+    "table_name": "continuity_parents 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_parents_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1veDC1A0mPslN_UG8F3Wje9SWMjM5urJJ/view?usp=drivesdk"
+  },
+  {
+    "table_name": "continuity_children 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_children_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1rmFIygGTiCW7g-X5Q_IXcMA-tiPi3WP8/view?usp=drivesdk"
+  },
+  {
+    "table_name": "foreign_priority 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/foreign_priority_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1zXWa5hB9fGwuDoEHUWrOrqHmM7RDaQ-6/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pat_term_adj 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pat_term_adj_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Mtw79gRIw2oYtXAeeaOHQq6h3vvmW6tC/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pta_summary 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pta_summary_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Jyk2KEwQ052WRctwTkeaV15If_zIa7Dv/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pte_summary 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pte_summary_2014.csv.zip"
+  },
+  {
+    "table_name": "correspondence_address 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/correspondence_address_2014.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1uw_31Faay7V-pLA0UB1pqLZ1tSFjUlgU/view?usp=drivesdk"
+  },
+  {
+    "table_name": "attorney_agent 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/attorney_agent_2014.csv.zip"
+  },
+  {
+    "table_name": "all_applicants 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_applicants_2014.csv.zip"
+  },
+  {
+    "table_name": "cms_document_codes 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_document_codes_2014.csv.zip"
+  },
+  {
+    "table_name": "cms_documents 2014 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_documents_2014.csv.zip"
+  },
+  {
+    "table_name": "application_data 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/application_data_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1MdN4B1T_d4be8pWaQfpp-_Yswoh6CHsf/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_inventors 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_inventors_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1tLHfhpyZo1W-ySLbFnoMxDRNOyKQZqVv/view?usp=drivesdk"
+  },
+  {
+    "table_name": "transactions 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/transactions_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1-EsJHRK-e2NvJlENRVt5GV1q_GYl7z-h/view?usp=drivesdk"
+  },
+  {
+    "table_name": "event_codes 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/event_codes_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1mzAMbfC13FEBIb8qgrP0p0NSUPzReVCZ/view?usp=drivesdk"
+  },
+  {
+    "table_name": "status_codes 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/status_codes_2020.csv.zip"
+  },
+  {
+    "table_name": "continuity_parents 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_parents_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1oSxX_7LnQn9Q-hbOgLjeTbVcJKvWlSRR/view?usp=drivesdk"
+  },
+  {
+    "table_name": "continuity_children 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_children_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/13H0dyv4VOM4hMBq5rotlbBSeAVlCmajA/view?usp=drivesdk"
+  },
+  {
+    "table_name": "foreign_priority 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/foreign_priority_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/11RH5P5yo2CrQ03iFXLLhgQXR3u5_-RRY/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pat_term_adj 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pat_term_adj_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1nAv2zF1JRRkn-iTacxI5tttK3uW-FKaw/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pta_summary 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pta_summary_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Y96HpYSFooZS7LrZd9jTFPJY1Ln2bq-8/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pte_summary 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pte_summary_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1fsSjudJgba7-bcy6HLohDATL92b23pBj/view?usp=drivesdk"
+  },
+  {
+    "table_name": "correspondence_address 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/correspondence_address_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1dUiWr3HqcyQWK1_8tYVK2PW5msANQAi6/view?usp=drivesdk"
+  },
+  {
+    "table_name": "attorney_agent 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/attorney_agent_2020.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1ZkPN1eeG3vD1g3RIKkP201Tme17f3Q9x/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_applicants 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_applicants_2020.csv.zip"
+  },
+  {
+    "table_name": "cms_document_codes 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_document_codes_2020.csv.zip"
+  },
+  {
+    "table_name": "cms_documents 2020 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_documents_2020.csv.zip"
+  },
+  {
+    "table_name": "application_data 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/application_data_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1UhavssQ8PuVKknu6PKwn5sZiPrx57nG0/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_inventors 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_inventors_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1OHcGs1Sf1xdLz-dJDiNLD3ffuCKJt8tZ/view?usp=drivesdk"
+  },
+  {
+    "table_name": "transactions 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/transactions_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1b-Rdj6mSd3X4H65QXt5pqApGKKI9WDTa/view?usp=drivesdk"
+  },
+  {
+    "table_name": "event_codes 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/event_codes_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1iRaFW07RnGP8_PPx-KNv5vfV3XzJJ0m5/view?usp=drivesdk"
+  },
+  {
+    "table_name": "status_codes 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/status_codes_2021.csv.zip"
+  },
+  {
+    "table_name": "continuity_parents 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_parents_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1xFIIINVc6jZrzUNRXX-p1WzuI7kbeoZE/view?usp=drivesdk"
+  },
+  {
+    "table_name": "continuity_children 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_children_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1TS2HpfsnDniMt6eTiSXFGjh2P3supYxO/view?usp=drivesdk"
+  },
+  {
+    "table_name": "foreign_priority 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/foreign_priority_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1aPdnV9QCJFNyZXF8FbmylieILEz0alDM/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pat_term_adj 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pat_term_adj_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1lupFFryMn32gZKQnOmI-JVEm2VOqwzc_/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pta_summary 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pta_summary_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1m8eTfI4XbRb9YMRruW0QCpmm3NCOw0Fi/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pte_summary 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pte_summary_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1La-MK7X7bUXlMEj5kmK3IKh0zlLZeN3y/view?usp=drivesdk"
+  },
+  {
+    "table_name": "correspondence_address 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/correspondence_address_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/16Fyi9QHfLd3NvbS74QpJ9lSrlX7zwYVl/view?usp=drivesdk"
+  },
+  {
+    "table_name": "attorney_agent 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/attorney_agent_2021.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1clPmZe25wRaiMHgH7SvKV7NjsJTB3KPh/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_applicants 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_applicants_2021.csv.zip"
+  },
+  {
+    "table_name": "cms_document_codes 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_document_codes_2021.csv.zip"
+  },
+  {
+    "table_name": "cms_documents 2021 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_documents_2021.csv.zip"
+  },
+  {
+    "table_name": "application_data 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/application_data_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Ohi2KIX0lZqTZOeQSjc4LcphFqczeLfQ/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_inventors 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_inventors_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/19dYSN2ZijX3ZInjXTOs-8q5FUtF2YGGK/view?usp=drivesdk"
+  },
+  {
+    "table_name": "transactions 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/transactions_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/14ik1B35rilH49CgRfHZADbvRaP7AUrKV/view?usp=drivesdk"
+  },
+  {
+    "table_name": "event_codes 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/event_codes_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1GmzWK5wfP_htwiOUNtdg02pHuU3QpbcE/view?usp=drivesdk"
+  },
+  {
+    "table_name": "status_codes 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/status_codes_2022.csv.zip"
+  },
+  {
+    "table_name": "continuity_parents 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_parents_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1aExwTqg2hhHJDv5vNyy8jGn2xReXn106/view?usp=drivesdk"
+  },
+  {
+    "table_name": "continuity_children 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/continuity_children_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1_AXKSnPlBldRqO_xL6dnxxPCOdMgBZ1Y/view?usp=drivesdk"
+  },
+  {
+    "table_name": "foreign_priority 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/foreign_priority_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1bZgRQn6R8w_xe1AtK-nsl_yFHWGTQ9sw/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pat_term_adj 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pat_term_adj_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1spjN_GF13lHa443oWynS031ARv1JMc6R/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pta_summary 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pta_summary_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1LnBXLUzXIhS5j6DAw86bgVoMs0-Y_uky/view?usp=drivesdk"
+  },
+  {
+    "table_name": "pte_summary 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/pte_summary_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1F2M7iHjtSqnyLs2LIP0yrLyp6iIg-vfu/view?usp=drivesdk"
+  },
+  {
+    "table_name": "correspondence_address 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/correspondence_address_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1Vjh3d3tkHjVmrITqDMzYRVbtArNgOmml/view?usp=drivesdk"
+  },
+  {
+    "table_name": "attorney_agent 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/attorney_agent_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/196egT2xp3kx5dDndyOh8y28Nk-GVL82P/view?usp=drivesdk"
+  },
+  {
+    "table_name": "all_applicants 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/all_applicants_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1vrtbecZPj3uGUuCpBfWXgEd4S4P2cX38/view?usp=drivesdk"
+  },
+  {
+    "table_name": "cms_document_codes 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_document_codes_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1ngNOS43Ih0fpFqjd3DES6NlFLHiT2OGL/view?usp=drivesdk"
+  },
+  {
+    "table_name": "cms_documents 2022 CSV",
+    "description": "",
+    "path": "patent-examination-research-dataset-public-pair/cms_documents_2022.csv.zip",
+    "shareable_link": "https://drive.google.com/file/d/1GgRxdHeCHTMTpBl-kXGDjz_8ee6CMoVG/view?usp=drivesdk"
+  }
+]
