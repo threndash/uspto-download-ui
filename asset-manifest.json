@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uspto-download-ui/static/css/main.106c5d02.css",
+    "main.js": "/uspto-download-ui/static/js/main.f809fc46.js",
+    "static/js/453.834f3e74.chunk.js": "/uspto-download-ui/static/js/453.834f3e74.chunk.js",
+    "index.html": "/uspto-download-ui/index.html",
+    "main.106c5d02.css.map": "/uspto-download-ui/static/css/main.106c5d02.css.map",
+    "main.f809fc46.js.map": "/uspto-download-ui/static/js/main.f809fc46.js.map",
+    "453.834f3e74.chunk.js.map": "/uspto-download-ui/static/js/453.834f3e74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.106c5d02.css",
+    "static/js/main.f809fc46.js"
+  ]
+}
