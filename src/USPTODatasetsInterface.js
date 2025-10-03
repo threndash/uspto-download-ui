@@ -17,10 +17,23 @@ const USPTODatasetsInterface = () => {
       try {
         setLoading(true);
         
-        // Try to read the file using window.fs
-        const response = await window.fs.readFile('uspto_links.json', { encoding: 'utf8' });
-        const jsonData = JSON.parse(response);
-        
+        if (window.fs && typeof window.fs.readFile === 'function') {
+        try {
+          const response = await window.fs.readFile('links.json', { encoding: 'utf8' });
+          const jsonData = JSON.parse(response);
+        } catch (fsError) {
+          console.warn('Could not read file using window.fs:', fsError);
+          // Continue to fallback
+        }
+      	}
+      	
+      	// Fetch from GitHub raw URL
+      	const response = await fetch('https://raw.githubusercontent.com/threndash/uspto-download-ui/refs/heads/master/uspto_links.json');
+      	if (!response.ok) {
+        	throw new Error(`HTTP error! status: ${response.status}`);
+      	}
+      	const jsonData = await response.json();
+
         // Process the data
         const processedData = processData(jsonData);
         setData(jsonData);
